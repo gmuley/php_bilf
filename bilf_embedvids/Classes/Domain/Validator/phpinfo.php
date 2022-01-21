@@ -7,6 +7,7 @@
  * Time: 11:27
  */
 
+// Hier beginnt der eig. Code
 phpinfo();
 
 ?>
